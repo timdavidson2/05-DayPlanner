@@ -7,3 +7,5 @@
 - To use the planner simply go to the time block you want to enter a memo on and click the text area. Once you enter the memo click the save button to the right and you will be alerted that it has been saved. If you refresh the page the memos will still be there.
 
 - Below is a screen shot of the planner:
+
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/)
