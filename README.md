@@ -8,4 +8,4 @@
 
 - Below is a screen shot of the planner:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/images/screenshot.png)
